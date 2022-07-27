@@ -1,0 +1,2 @@
+# myProjectDir
+Time pass dir
